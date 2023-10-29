@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/3D Render Engine.iml" filepath="$PROJECT_DIR$/.idea/3D Render Engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RenderEngine3D.iml" filepath="$PROJECT_DIR$/RenderEngine3D.iml" />
     </modules>
   </component>
 </project>
