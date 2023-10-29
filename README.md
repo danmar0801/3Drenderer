@@ -4,6 +4,8 @@
 
 This project is a basic 3D renderer built using Java and Swing. It utilizes the Painter's algorithm and z-buffering to handle the depth of objects. The renderer currently supports basic rotations in both the horizontal and vertical directions.
 
+![Example Image](example.png)
+
 ## Features
 
 - 3D Object Rendering
